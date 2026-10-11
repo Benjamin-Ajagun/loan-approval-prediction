@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .env
+# Trained model artifacts
+*.pkl
+final_config.json
